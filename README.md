@@ -9,8 +9,8 @@ Detailed CAD design and structural consideration for a robust industrial/commerc
 * **Design Focus:** Emphasized structural integrity, manufacturability, and compliance with relevant building standards (e.g., NTC 2018 for Italy, Eurocodes).
 
 ## Software & Tools
-* **CAD Modeling:** [Specify your software, e.g., SolidWorks, Tekla Structures, AutoCAD 3D]
-* **Analysis (if applicable):** [Specify your software, e.g., SAP2000, Robot Structural Analysis]
+* **CAD Modeling:** Tekla Structures
+* **Analysis (if applicable):**  SAP2000
 
 ## Visuals
 Here's a perspective view of the staircase structure:
