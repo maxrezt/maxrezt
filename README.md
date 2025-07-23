@@ -26,7 +26,7 @@ The entire assembly was modeled parametrically in SolidWorks. This involved:
 * Assembling individual components (base jaws, inserts, pins, set screws) and defining mates to simulate movement.
 
 **Image: Initial CAD Assembly View**
-![CAD Assembly of Parametric Vise Jaws](Images/CAD_Assembly_View.png)
+![CAD Assembly of Parametric Vise Jaws](scala72.jpg)
 *A full assembly view of the parametric vise jaws in SolidWorks.*
 
 #### 3. Finite Element Analysis (FEA) - SolidWorks Simulation
