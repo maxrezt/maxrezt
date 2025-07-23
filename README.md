@@ -15,6 +15,6 @@ Detailed CAD design and structural consideration for a robust industrial/commerc
 ## Visuals
 Here's a perspective view of the staircase structure:
 
-![Steel Staircase Structure with Bracing](scala72r.jpg)
+![Steel Staircase Structure with Bracing](scala72rr.jpg)
 *Render showing the UPE 240 stringers, HEA 180 columns, and angular bracing.*
 
